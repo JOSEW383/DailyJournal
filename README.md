@@ -9,7 +9,7 @@ To install DailyJournal, follow these steps:
 1. Download or clone this repository
 2. Install the necessary dependencies using npm (`npm install`)
 3. Create .env file with mongoDB data `MONGODB_ATLAS_SECRET` and `MONGODB_ATLAS_URL`
-4. Start the server using npm (`npm start`)
+4. Start the server using npm (`node app.js`)
 5. Open your web browser and navigate to `http://localhost:3000`
 
 ## Usage
