@@ -2,6 +2,8 @@
 
 DailyJournal is an online diary designed as an example of a web application developed with Express and MongoDB. It allows users to keep track of their thoughts, feelings, and experiences in a secure and private manner.
 
+![](https://github.com/JOSEW383/dailyjournal/blob/master/public/DailyJournalDemo.gif)
+
 ## Installation
 
 To install DailyJournal, follow these steps:
